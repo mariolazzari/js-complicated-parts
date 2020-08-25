@@ -1,0 +1,23 @@
+{
+  "name": "js-complicated-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_prototypes.js",
+  "scripts": {
+    "02": "nodemon 02_this.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/js-complicated-parts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/js-complicated-parts/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/js-complicated-parts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
