@@ -4,7 +4,7 @@
   "description": "",
   "main": "01_prototypes.js",
   "scripts": {
-    "02": "nodemon 02_this.js"
+    "02": "nodemon 02_this"
   },
   "repository": {
     "type": "git",
